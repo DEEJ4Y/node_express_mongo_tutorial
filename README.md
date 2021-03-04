@@ -2,10 +2,11 @@
 
 What we will learn:
 
-1. Bash CLI: Basic terminal operations.
-2. Node JS: REPL, npm
-3. Express: Creating an express server, handling requests and responses.
-4. Mongoose: Integrating a mongoDB database with our application.
+1. JS
+2. Bash CLI: Basic terminal operations.
+3. Node JS: REPL, npm
+4. Express: Creating an express server, handling requests and responses.
+5. Mongoose: Integrating a mongoDB database with our application.
 
 ## Bash CLI
 
